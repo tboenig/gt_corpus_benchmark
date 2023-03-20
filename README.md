@@ -25,5 +25,3 @@
 
 - https://github.com/tboenig/17_fontmix_simple
 - https://github.com/tboenig/18_fontmix_complex
-
-- https://github.com/tboenig/18_fontmix_complex
