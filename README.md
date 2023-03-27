@@ -1,5 +1,17 @@
 # Corpus
 
+This corpus includes Ground Truth data compiled considering the following feature:
+  1. distinction of the selected print type or combinations
+  2. compelexity of the layout (columns, footnotes,...)
+
+The data are also divided according to the time of creation or production.
+
+## Creation
+
+The data were created according to the OCR-D Ground Truth Guideline (https://ocr-d.de/en/gt-guidelines/trans/).
+
+# The Data
+
 ## Gothic/Blackletter 
 
 ### simple
