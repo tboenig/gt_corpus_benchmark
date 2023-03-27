@@ -28,64 +28,64 @@ jobs:
     - name: clone repos and delete files
       run: |
 # blackletter
-      git clone https://github.com/tboenig/16_frak_simple.git --branch gh-pages
-      cd 16_frak_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/17_frak_simple.git --branch gh-pages
-      cd 17_frak_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/18_frak_simple.git --branch gh-pages
-      cd 18_frak_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/19_frak_simple.git --branch gh-pages
-      cd 19_frak_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
+        git clone https://github.com/tboenig/16_frak_simple.git --branch gh-pages
+        cd 16_frak_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/17_frak_simple.git --branch gh-pages
+        cd 17_frak_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/18_frak_simple.git --branch gh-pages
+        cd 18_frak_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/19_frak_simple.git --branch gh-pages
+        cd 19_frak_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
   ## complex
-      git clone https://github.com/tboenig/16_frak_complex.git --branch gh-pages
-      cd 16_frak_complex
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/17_frak_complex.git --branch gh-pages
-      cd 17_frak_complex
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/18_frak_complex.git --branch gh-pages
-      cd 18_frak_complex
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
+        git clone https://github.com/tboenig/16_frak_complex.git --branch gh-pages
+        cd 16_frak_complex
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/17_frak_complex.git --branch gh-pages
+        cd 17_frak_complex
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/18_frak_complex.git --branch gh-pages
+        cd 18_frak_complex
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
 # Antiqua
   ## simple
-      git clone https://github.com/tboenig/16_ant_simple.git --branch gh-pages
-      cd 16_ant_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
-      git clone https://github.com/tboenig/18_ant_simple.git --branch gh-pages
-      cd 18_ant_simple
-      rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-      cd ..
+        git clone https://github.com/tboenig/16_ant_simple.git --branch gh-pages
+        cd 16_ant_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/18_ant_simple.git --branch gh-pages
+        cd 18_ant_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
   ## complex
-     git clone https://github.com/tboenig/16_ant_complex.git --branch gh-pages
-     cd 16_ant_complex
-     rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-     cd ..
-     git clone https://github.com/tboenig/19_ant_simple.git --branch gh-pages
-     cd 19_ant_simple
-     rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-     cd ..
+        git clone https://github.com/tboenig/16_ant_complex.git --branch gh-pages
+        cd 16_ant_complex
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/19_ant_simple.git --branch gh-pages
+        cd 19_ant_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
 # FontMix (Antiqua and Blackletter)
-     git clone https://github.com/tboenig/17_fontmix_simple.git --branch gh-pages
-     cd 17_fontmix_simple
-     rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-     cd ..
-     git clone https://github.com/tboenig/18_fontmix_complex.git --branch gh-pages
-     cd 18_fontmix_complex
-     rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-     cd ..
-     ls -l
+        git clone https://github.com/tboenig/17_fontmix_simple.git --branch gh-pages
+        cd 17_fontmix_simple
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        git clone https://github.com/tboenig/18_fontmix_complex.git --branch gh-pages
+        cd 18_fontmix_complex
+        rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
+        cd ..
+        ls -l
 
      
      
