@@ -23,11 +23,22 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v3
 
-     
+     # Create Directories
+
+    - name: create directories
+      run: |
+        mkdir frak_simple
+        mkdir frak_complex
+        mkdir ant_simple
+        mkdir ant_complex
+        mkdir fontmix_simple
+        mkdir fontmix_complex
+
+
      # Clone Repos
     - name: clone repos and delete files
       run: |
-     
+        cd frak_simple
         git clone https://github.com/tboenig/16_frak_simple.git --branch gh-pages
         cd 16_frak_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -43,8 +54,9 @@ jobs:
         git clone https://github.com/tboenig/19_frak_simple.git --branch gh-pages
         cd 19_frak_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
-  
+        cd ../..
+        
+        cd frak_complex
         git clone https://github.com/tboenig/16_frak_complex.git --branch gh-pages
         cd 16_frak_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -56,8 +68,9 @@ jobs:
         git clone https://github.com/tboenig/18_frak_complex.git --branch gh-pages
         cd 18_frak_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
-
+        cd ../..
+        
+        cd ant_simple
         git clone https://github.com/tboenig/16_ant_simple.git --branch gh-pages
         cd 16_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -65,8 +78,9 @@ jobs:
         git clone https://github.com/tboenig/18_ant_simple.git --branch gh-pages
         cd 18_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
-  
+        cd ../..
+        
+        cd ant_complex
         git clone https://github.com/tboenig/16_ant_complex.git --branch gh-pages
         cd 16_ant_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -74,16 +88,19 @@ jobs:
         git clone https://github.com/tboenig/19_ant_simple.git --branch gh-pages
         cd 19_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
-
+        cd ../..
+        
+        cd fontmix_simple
         git clone https://github.com/tboenig/17_fontmix_simple.git --branch gh-pages
         cd 17_fontmix_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
+        cd ../..
+        
+        cd fontmix_complex
         git clone https://github.com/tboenig/18_fontmix_complex.git --branch gh-pages
         cd 18_fontmix_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
-        cd ..
+        cd ../..
         ls -l
 
      
