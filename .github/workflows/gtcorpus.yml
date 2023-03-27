@@ -27,7 +27,7 @@ jobs:
      # Clone Repos
     - name: clone repos and delete files
       run: |
-# blackletter
+     
         git clone https://github.com/tboenig/16_frak_simple.git --branch gh-pages
         cd 16_frak_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -44,7 +44,7 @@ jobs:
         cd 19_frak_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
         cd ..
-  ## complex
+  
         git clone https://github.com/tboenig/16_frak_complex.git --branch gh-pages
         cd 16_frak_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -57,8 +57,7 @@ jobs:
         cd 18_frak_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
         cd ..
-# Antiqua
-  ## simple
+
         git clone https://github.com/tboenig/16_ant_simple.git --branch gh-pages
         cd 16_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -67,7 +66,7 @@ jobs:
         cd 18_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
         cd ..
-  ## complex
+  
         git clone https://github.com/tboenig/16_ant_complex.git --branch gh-pages
         cd 16_ant_complex
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
@@ -76,7 +75,7 @@ jobs:
         cd 19_ant_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
         cd ..
-# FontMix (Antiqua and Blackletter)
+
         git clone https://github.com/tboenig/17_fontmix_simple.git --branch gh-pages
         cd 17_fontmix_simple
         rm -rf _config.yml index.md metadata.md overview.md table.md table_hide.css
