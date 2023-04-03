@@ -30,12 +30,12 @@ jobs:
         mkdir frak
         mkdir ant
         mkdir fontmix
-        mkdir frak_simple
-        mkdir frak_complex
-        mkdir ant_simple
-        mkdir ant_complex
-        mkdir fontmix_simple
-        mkdir fontmix_complex
+        mkdir frak/frak_simple
+        mkdir frak/frak_complex
+        mkdir ant/ant_simple
+        mkdir ant/ant_complex
+        mkdir fontmix/fontmix_simple
+        mkdir fontmix/fontmix_complex
 
 
      # Clone Repos
