@@ -15,7 +15,7 @@
             <summary>Gothic/Blackletter</summary>
             <details>
                <summary>
-                  <h3>simple</h3>
+                  simple
                </summary>
                <ul>
                   <li>https://github.com/tboenig/16_frak_simple</li>
@@ -26,7 +26,7 @@
             </details>
             <details>
                <summary>
-                  <h3>complex</h3>
+                  complex
                </summary>
                <ul>
                   <li>https://github.com/tboenig/16_frak_complex</li>
@@ -39,7 +39,7 @@
             <summary>Antiqua</summary>
             <details>
                <summary>
-                  <h3>simple</h3>
+                  simple
                </summary>
                <ul>
                   <li>https://github.com/tboenig/16_ant_simple</li>
@@ -48,7 +48,7 @@
             </details>
             <details>
                <summary>
-                  <h3>complex</h3>
+                  complex
                </summary>
                <ul>
                   <li>https://github.com/tboenig/16_ant_complex</li>
@@ -60,7 +60,7 @@
             <summary>FontMix (Antiqua and Blackletter)</summary>
             <details>
                <summary>
-                  <h3>fontmix</h3>
+                  fontmix
                </summary>
                <ul>
                   <li>https://github.com/tboenig/17_fontmix_simple</li>
@@ -81,7 +81,7 @@
          <div>
             <details>
                <summary>
-                  <h3>simple</h3>
+                  simple
                </summary>
                <ul>
                   <li>
@@ -274,7 +274,7 @@ An image database</p>
          <div>
             <details>
                <summary>
-                  <h3>complex</h3>
+                  complex
                </summary>
                <ul>
                   <li>
@@ -486,7 +486,7 @@ An image database</p>
          <div>
             <details>
                <summary>
-                  <h3>simple</h3>
+                  simple
                </summary>
                <ul>
                   <li>
@@ -685,7 +685,7 @@ An image database</p>
          <div>
             <details>
                <summary>
-                  <h3>complex</h3>
+                  complex
                </summary>
                <ul>
                   <li>
@@ -949,7 +949,7 @@ An image database</p>
          <div>
             <details>
                <summary>
-                  <h3>simple</h3>
+                  simple
                </summary>
                <ul>
                   <li>
@@ -1104,7 +1104,7 @@ An image database</p>
          <div>
             <details>
                <summary>
-                  <h3>complex</h3>
+                  complex
                </summary>
                <ul>
                   <li>
