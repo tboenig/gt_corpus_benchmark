@@ -13,34 +13,49 @@
       <div id="data">
 
 
-## Gothic/Blackletter 
+         <details>
+            <summary>Gothic/Blackletter</summary>
 
-### simple
-- https://github.com/tboenig/16_frak_simple
-- https://github.com/tboenig/17_frak_simple
-- https://github.com/tboenig/18_frak_simple
-- https://github.com/tboenig/19_frak_simple
+         <details>
+            <summary>
+               <h3>simple</h3></summary>
+               <ul>
+<li>https://github.com/tboenig/16_frak_simple</li>
+<li>https://github.com/tboenig/17_frak_simple</li>
+<li>https://github.com/tboenig/18_frak_simple</li>
+<li>https://github.com/tboenig/19_frak_simple</li>
+               </ul></details>
+               <details>
+                  <summary>
+                     <h3>complex</h3></summary><ul>
+                        <li>https://github.com/tboenig/16_frak_complex</li>
+                        <li>https://github.com/tboenig/17_frak_complex</li>
+                        <li>https://github.com/tboenig/18_frak_complex</li></ul>
+               </details></details>
 
-### complex
-- https://github.com/tboenig/16_frak_complex
-- https://github.com/tboenig/17_frak_complex
-- https://github.com/tboenig/18_frak_complex
+         <details>
+            <summary>Antiqua</summary>
 
+                        <details>
+                           <summary>
+                              <h3>simple</h3></summary><ul>
+                        <li>https://github.com/tboenig/16_ant_simple</li>
+                        <li>https://github.com/tboenig/18_ant_simple</li></ul>
+                        </details>
+                              <details>
+                                 <summary>
+                                    <h3>complex</h3></summary><ul>
+                        <li>https://github.com/tboenig/16_ant_complex</li>
+                        <li>https://github.com/tboenig/19_ant_simple</li></ul>
+                              </details></details>
 
-## Antiqua
-
-### simple
-- https://github.com/tboenig/16_ant_simple
-- https://github.com/tboenig/18_ant_simple
-
-### complex
-- https://github.com/tboenig/16_ant_complex
-- https://github.com/tboenig/19_ant_simple
-
-
-## FontMix (Antiqua and Blackletter)
-- https://github.com/tboenig/17_fontmix_simple
-- https://github.com/tboenig/18_fontmix_complex
+         <details>
+            <summary>FontMix (Antiqua and Blackletter)</summary>
+         <details>
+            <summary>
+               <h3>fontmix</h3></summary><ul>
+                        <li>https://github.com/tboenig/17_fontmix_simple</li>
+                        <li>https://github.com/tboenig/18_fontmix_complex</li></ul></details></details>
 
 </div>
    </div>
