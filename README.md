@@ -11,53 +11,64 @@
       <p>The data were created according to the OCR-D Ground Truth Guideline (https://ocr-d.de/en/gt-guidelines/trans/).</p>
       <h2>Repositories</h2>
       <div id="data">
-
-
          <details>
             <summary>Gothic/Blackletter</summary>
-
-         <details>
-            <summary>
-               <h3>simple</h3></summary>
+            <details>
+               <summary>
+                  <h3>simple</h3>
+               </summary>
                <ul>
-<li>https://github.com/tboenig/16_frak_simple</li>
-<li>https://github.com/tboenig/17_frak_simple</li>
-<li>https://github.com/tboenig/18_frak_simple</li>
-<li>https://github.com/tboenig/19_frak_simple</li>
-               </ul></details>
-               <details>
-                  <summary>
-                     <h3>complex</h3></summary><ul>
-                        <li>https://github.com/tboenig/16_frak_complex</li>
-                        <li>https://github.com/tboenig/17_frak_complex</li>
-                        <li>https://github.com/tboenig/18_frak_complex</li></ul>
-               </details></details>
-
+                  <li>https://github.com/tboenig/16_frak_simple</li>
+                  <li>https://github.com/tboenig/17_frak_simple</li>
+                  <li>https://github.com/tboenig/18_frak_simple</li>
+                  <li>https://github.com/tboenig/19_frak_simple</li>
+               </ul>
+            </details>
+            <details>
+               <summary>
+                  <h3>complex</h3>
+               </summary>
+               <ul>
+                  <li>https://github.com/tboenig/16_frak_complex</li>
+                  <li>https://github.com/tboenig/17_frak_complex</li>
+                  <li>https://github.com/tboenig/18_frak_complex</li>
+               </ul>
+            </details>
+         </details>
          <details>
             <summary>Antiqua</summary>
-
-                        <details>
-                           <summary>
-                              <h3>simple</h3></summary><ul>
-                        <li>https://github.com/tboenig/16_ant_simple</li>
-                        <li>https://github.com/tboenig/18_ant_simple</li></ul>
-                        </details>
-                              <details>
-                                 <summary>
-                                    <h3>complex</h3></summary><ul>
-                        <li>https://github.com/tboenig/16_ant_complex</li>
-                        <li>https://github.com/tboenig/19_ant_simple</li></ul>
-                              </details></details>
-
+            <details>
+               <summary>
+                  <h3>simple</h3>
+               </summary>
+               <ul>
+                  <li>https://github.com/tboenig/16_ant_simple</li>
+                  <li>https://github.com/tboenig/18_ant_simple</li>
+               </ul>
+            </details>
+            <details>
+               <summary>
+                  <h3>complex</h3>
+               </summary>
+               <ul>
+                  <li>https://github.com/tboenig/16_ant_complex</li>
+                  <li>https://github.com/tboenig/19_ant_simple</li>
+               </ul>
+            </details>
+         </details>
          <details>
             <summary>FontMix (Antiqua and Blackletter)</summary>
-         <details>
-            <summary>
-               <h3>fontmix</h3></summary><ul>
-                        <li>https://github.com/tboenig/17_fontmix_simple</li>
-                        <li>https://github.com/tboenig/18_fontmix_complex</li></ul></details></details>
-
-</div>
+            <details>
+               <summary>
+                  <h3>fontmix</h3>
+               </summary>
+               <ul>
+                  <li>https://github.com/tboenig/17_fontmix_simple</li>
+                  <li>https://github.com/tboenig/18_fontmix_complex</li>
+               </ul>
+            </details>
+         </details>
+      </div>
    </div>
    <div>
       <h1>Analyzed collection</h1>
