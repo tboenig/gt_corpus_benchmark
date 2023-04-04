@@ -1,15 +1,15 @@
 <div>
    <div id="main">
-      <h1>Corpus</h1>
+      <h1>📚 Corpus</h1>
       <p>This corpus includes Ground Truth data compiled considering the following feature:</p>
       <ol>
          <li>distinction of the selected print type or combinations : Classification into font groups: Gothic/Blackletter, Antiqua and FontMix (Antiqua and Blackletter)</li>
          <li>compelexity of the layout (columns, footnotes,...) : Classification into simple and complex</li>
       </ol>
       <p>The data are also divided according to the time of creation or production.</p>
-      <h2>Creation</h2>
+      <h2>🖉 Creation</h2>
       <p>The data were created according to the OCR-D Ground Truth Guideline (https://ocr-d.de/en/gt-guidelines/trans/).</p>
-      <h2>Repositories</h2>
+      <h2>💻 Repositories</h2>
       <div id="data">
          <details>
             <summary>Gothic/Blackletter</summary>
@@ -71,7 +71,7 @@
       </div>
    </div>
    <div>
-      <h1>Analyzed collection</h1>
+      <h1>📓Analyzed collection</h1>
       <p>The GT data has been labeled. The labeling is based on an ontology defined by the Pattern Recognition 
                     and Image Analysis Research Lab (PRImA-Research-Lab) at the University of Salford. The labeling metadata 
                     is created for each available page. The following labeling metadata is available for the different collections.</p>
