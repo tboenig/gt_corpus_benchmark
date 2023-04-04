@@ -143,7 +143,7 @@ jobs:
     - name: generate README
       run: |
         java -jar saxon-he-11.4.jar -xsl:scripts/gt-coll_metadata.xsl \
-        -s:scripts/gt-coll_metadata.xsl.xsl -o:README.md
+        -s:scripts/gt-coll_metadata.xsl -o:README.md
       shell: bash
           
     
