@@ -71,7 +71,7 @@
       </div>
    </div>
    <div>
-      <h1>📓Analyzed collection</h1>
+      <h1>Analyzed collection</h1>
       <p>The GT data has been labeled. The labeling is based on an ontology defined by the Pattern Recognition 
                     and Image Analysis Research Lab (PRImA-Research-Lab) at the University of Salford. The labeling metadata 
                     is created for each available page. The following labeling metadata is available for the different collections.</p>
@@ -80,9 +80,7 @@
          <h2>FontMix (Antiqua and Blackletter)</h2>
          <div>
             <details>
-               <summary>
-                  simple
-               </summary>
+               <summary>simple</summary>
                <ul>
                   <li>
                      <details>
@@ -273,9 +271,7 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>
-                  complex
-               </summary>
+               <summary>complex</summary>
                <ul>
                   <li>
                      <details>
@@ -485,9 +481,7 @@ An image database</p>
          <h2>Gothic/Blackletter</h2>
          <div>
             <details>
-               <summary>
-                  simple
-               </summary>
+               <summary>simple</summary>
                <ul>
                   <li>
                      <details>
@@ -684,9 +678,7 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>
-                  complex
-               </summary>
+               <summary>complex</summary>
                <ul>
                   <li>
                      <details>
@@ -948,9 +940,7 @@ An image database</p>
          <h2>Antiqua</h2>
          <div>
             <details>
-               <summary>
-                  simple
-               </summary>
+               <summary>simple</summary>
                <ul>
                   <li>
                      <details>
@@ -1103,9 +1093,7 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>
-                  complex
-               </summary>
+               <summary>complex</summary>
                <ul>
                   <li>
                      <details>
