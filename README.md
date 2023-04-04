@@ -71,7 +71,7 @@
       </div>
    </div>
    <div>
-      <h1>Analyzed collection</h1>
+      <h1>📔 Analyzed collection</h1>
       <p>The GT data has been labeled. The labeling is based on an ontology defined by the Pattern Recognition 
                     and Image Analysis Research Lab (PRImA-Research-Lab) at the University of Salford. The labeling metadata 
                     is created for each available page. The following labeling metadata is available for the different collections.</p>
