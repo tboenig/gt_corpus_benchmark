@@ -1,17 +1,23 @@
-# Corpus
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div id="main">
+    <h1>Corpus</h1>
 
-This corpus includes Ground Truth data compiled considering the following feature:
-  1. distinction of the selected print type or combinations
-  2. compelexity of the layout (columns, footnotes,...)
+<p>This corpus includes Ground Truth data compiled considering the following feature:</p>
+<ol>
+    <li>distinction of the selected print type or combinations</li>
+    <li>compelexity of the layout (columns, footnotes,...)</li>
+</ol>
 
-The data are also divided according to the time of creation or production.
+<p>The data are also divided according to the time of creation or production.</p>
 
-## Creation
+  <h2>Creation</h2>
 
-The data were created according to the OCR-D Ground Truth Guideline (https://ocr-d.de/en/gt-guidelines/trans/).
+<p>The data were created according to the OCR-D Ground Truth Guideline (https://ocr-d.de/en/gt-guidelines/trans/).</p>
+    
+<h2>Repositories</h2>
 
-# The Data
-
+<div id="data">
 ## Gothic/Blackletter 
 
 ### simple
@@ -40,3 +46,7 @@ The data were created according to the OCR-D Ground Truth Guideline (https://ocr
 ## FontMix (Antiqua and Blackletter)
 - https://github.com/tboenig/17_fontmix_simple
 - https://github.com/tboenig/18_fontmix_complex
+
+</div>
+</div>
+</div>

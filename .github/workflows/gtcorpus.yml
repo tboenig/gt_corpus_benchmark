@@ -109,63 +109,48 @@ jobs:
         cd ../../..
         ls -l
 
-     
-     
-     
-     
-     
      # Installation Styles
       
-    #- name: clone repos
-    #  run: | 
-    #    git clone https://github.com/tboenig/gt-repo-scripts.git
-    #    mv gt-repo-scripts/scripts scripts/
-    #    rm -r gt-repo-scripts
+    - name: install analyse xsl-styles
+      run: | 
+        git clone https://github.com/tboenig/gt-repo-scripts.git
+        mv gt-repo-scripts/scripts scripts/
+        rm -r gt-repo-scripts
+     
+    # Installation GT-Labelling Documentation
+
+    - name: install labeling
+      run: |
+        git clone https://github.com/tboenig/gt-guidelines.git
 
           
-    # Installation and Directories
-      
+    # Installation Transformer
+
+    - name: Download and install saxon
+      run: |
+        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/11/Java/SaxonHE11-4J.zip/download
+        unzip download
     
+    
+    # Transform Readme
+
+    - name: readme.xml file
+      run: sh scripts/xreadme.sh  
+    
+      
+    # Transformation and analyzing
+
+    - name: generate README
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/gt-coll_metadata.xsl \
+        -s:scripts/gt-coll_metadata.xsl.xsl -o:README.md
+      shell: bash
           
-    #- name: Download and install saxon
-    #  run: |
-    #    wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download 
-    #    unzip download
-                      
-    #- name: make ocrdzip_out
-    #  run: mkdir ocrdzip_out
-      
-    #- name: make gh-pages_out
-    #  run: mkdir ghout
-      
-    #- name: make readme_out 
-    #  run:  sh scripts/readmefolder.sh
-
-
-    #- name: readme.xml file
-    #  run: sh scripts/xreadme.sh  
+    
 
           
     
-   # Transformation and analyzing
-    
-              
-    #- name: transform METADATA and make GT-Overview
-    #  run: |
-    #    java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
-    #    output=METADATA repoBase=$GITHUB_REF_NAME repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=$GITHUB_REF_NAME \
-    #    -s:scripts/gt-overview_metadata.xsl -o:ghout/metadata.md
-    #  shell: bash
-
-    
-      
-      
-    #- name: generate README
-    #  run: |
-    #    java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
-    #    output=README repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY \
-    #    -s:scripts/gt-overview_metadata.xsl -o:README.md
-    #  shell: bash
+   
       
     
   
@@ -203,13 +188,13 @@ jobs:
     #        </dl>
     #      token: ${{ secrets.GITHUB_TOKEN }}
           
-    #- name: Commit README
-    #  run: |
-    #    git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    #    git config --local user.name "github-actions[bot]"
-    #    git add README.md
-    #    git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
-    #    git push origin HEAD:main
+    - name: Commit README
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
+        git push origin HEAD:main
 
 
     #- name: Deploy GT-Overview to GitHub Pages 🚀
