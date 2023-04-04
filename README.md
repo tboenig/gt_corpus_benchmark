@@ -3,8 +3,8 @@
       <h1>Corpus</h1>
       <p>This corpus includes Ground Truth data compiled considering the following feature:</p>
       <ol>
-         <li>distinction of the selected print type or combinations</li>
-         <li>compelexity of the layout (columns, footnotes,...)</li>
+         <li>distinction of the selected print type or combinations : Classification into font groups: Gothic/Blackletter, Antiqua and FontMix (Antiqua and Blackletter)</li>
+         <li>compelexity of the layout (columns, footnotes,...) : Classification into simple and complex</li>
       </ol>
       <p>The data are also divided according to the time of creation or production.</p>
       <h2>Creation</h2>
@@ -80,7 +80,9 @@
          <h2>FontMix (Antiqua and Blackletter)</h2>
          <div>
             <details>
-               <summary>simple</summary>
+               <summary>
+                  simple
+               </summary>
                <ul>
                   <li>
                      <details>
@@ -271,7 +273,9 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>complex</summary>
+               <summary>
+                  complex
+               </summary>
                <ul>
                   <li>
                      <details>
@@ -481,7 +485,9 @@ An image database</p>
          <h2>Gothic/Blackletter</h2>
          <div>
             <details>
-               <summary>simple</summary>
+               <summary>
+                  simple
+               </summary>
                <ul>
                   <li>
                      <details>
@@ -678,7 +684,9 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>complex</summary>
+               <summary>
+                  complex
+               </summary>
                <ul>
                   <li>
                      <details>
@@ -940,7 +948,9 @@ An image database</p>
          <h2>Antiqua</h2>
          <div>
             <details>
-               <summary>simple</summary>
+               <summary>
+                  simple
+               </summary>
                <ul>
                   <li>
                      <details>
@@ -1093,7 +1103,9 @@ An image database</p>
          </div>
          <div>
             <details>
-               <summary>complex</summary>
+               <summary>
+                  complex
+               </summary>
                <ul>
                   <li>
                      <details>
