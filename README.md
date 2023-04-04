@@ -53,30 +53,33 @@
       <div>
          <h2>FontMix (Antiqua and Blackletter)</h2>
          <div>
-            <h3>simple</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>simple</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -86,186 +89,190 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
-                     <p>Uneven illumination leading to brightness or contrast variations</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-characteristics/low-contrast</summary>
-                     <p>The contrast bwtween the paper and the page content is very low</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/additions/informative/annotations</summary>
-                     <p>Annotations regarding the content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
+                        <p>Uneven illumination leading to brightness or contrast variations</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-characteristics/low-contrast</summary>
+                        <p>The contrast bwtween the paper and the page content is very low</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/additions/informative/annotations</summary>
+                        <p>Annotations regarding the content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical/separator</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical/separator</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/running-titles</summary>
-                     <p>Titles repeated each page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-                     <p>More than one typeface used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/language/mixed</summary>
-                     <p>More than one language used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/running-titles</summary>
+                        <p>Titles repeated each page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+                        <p>More than one typeface used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/language/mixed</summary>
+                        <p>More than one language used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
          <div>
-            <h3>complex</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>complex</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -275,205 +282,209 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding</summary>
-                     <p>Part of preceeding or succeeding object included (e.g. other page)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/page-curl</summary>
-                     <p>Visible page curl (e.g. book scanning)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/perspective-distortions</summary>
-                     <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
-                     <p>Uneven illumination leading to brightness or contrast variations</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-characteristics/low-contrast</summary>
-                     <p>The contrast bwtween the paper and the page content is very low</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding</summary>
+                        <p>Part of preceeding or succeeding object included (e.g. other page)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/page-curl</summary>
+                        <p>Visible page curl (e.g. book scanning)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/perspective-distortions</summary>
+                        <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
+                        <p>Uneven illumination leading to brightness or contrast variations</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-characteristics/low-contrast</summary>
+                        <p>The contrast bwtween the paper and the page content is very low</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical/separator</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical/separator</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/footnote-continued</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/footnotes</summary>
-                     <p>Footnotes at bottom of page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/running-titles</summary>
-                     <p>Titles repeated each page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-                     <p>More than one typeface used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/language/mixed</summary>
-                     <p>More than one language used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/footnote-continued</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/footnotes</summary>
+                        <p>Footnotes at bottom of page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/running-titles</summary>
+                        <p>Titles repeated each page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+                        <p>More than one typeface used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/language/mixed</summary>
+                        <p>More than one language used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
       </div>
       <div>
          <h2>Gothic/Blackletter</h2>
          <div>
-            <h3>simple</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>simple</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -483,192 +494,196 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/page-curl</summary>
-                     <p>Visible page curl (e.g. book scanning)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/perspective-distortions</summary>
-                     <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/ageing/warping</summary>
-                     <p>Arbitrary warping (e.g. due to moisture)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/additions/informative/annotations</summary>
-                     <p>Annotations regarding the content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/medium-damage/stains</summary>
-                     <p>Noticeable stains on medium</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/page-curl</summary>
+                        <p>Visible page curl (e.g. book scanning)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/perspective-distortions</summary>
+                        <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/ageing/warping</summary>
+                        <p>Arbitrary warping (e.g. due to moisture)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/additions/informative/annotations</summary>
+                        <p>Annotations regarding the content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/medium-damage/stains</summary>
+                        <p>Noticeable stains on medium</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical/separator</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical/separator</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/running-titles</summary>
-                     <p>Titles repeated each page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-                     <p>More than one typeface used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/running-titles</summary>
+                        <p>Titles repeated each page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+                        <p>More than one typeface used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
          <div>
-            <h3>complex</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>complex</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -678,257 +693,261 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding</summary>
-                     <p>Part of preceeding or succeeding object included (e.g. other page)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/page-curl</summary>
-                     <p>Visible page curl (e.g. book scanning)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/geometric/perspective-distortions</summary>
-                     <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
-                     <p>Uneven illumination leading to brightness or contrast variations</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/ageing/warping</summary>
-                     <p>Arbitrary warping (e.g. due to moisture)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-characteristics/low-contrast</summary>
-                     <p>The contrast bwtween the paper and the page content is very low</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/additions/informative/annotations</summary>
-                     <p>Annotations regarding the content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/additions/informative/stamps</summary>
-                     <p>The medium was stamped</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/medium-damage/stains</summary>
-                     <p>Noticeable stains on medium</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding</summary>
+                        <p>Part of preceeding or succeeding object included (e.g. other page)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/page-curl</summary>
+                        <p>Visible page curl (e.g. book scanning)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/geometric/perspective-distortions</summary>
+                        <p>Perspective distortions (e.g. due to camera-based acquisition)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/acquisition/method-flaws/imaging/uneven-illumination</summary>
+                        <p>Uneven illumination leading to brightness or contrast variations</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/ageing/warping</summary>
+                        <p>Arbitrary warping (e.g. due to moisture)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-characteristics/low-contrast</summary>
+                        <p>The contrast bwtween the paper and the page content is very low</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/additions/informative/annotations</summary>
+                        <p>Annotations regarding the content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/additions/informative/stamps</summary>
+                        <p>The medium was stamped</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/medium-damage/stains</summary>
+                        <p>Noticeable stains on medium</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/composite/music</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/composite/music</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical/separator</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical/separator</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/footnotes</summary>
-                     <p>Footnotes at bottom of page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/running-titles</summary>
-                     <p>Titles repeated each page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/decorations</summary>
-                     <p>Decorations of some kind</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/illustrations</summary>
-                     <p>Illustrations in content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/illustrations/multi-colour</summary>
-                     <p>Multi-colour illustrations in content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-                     <p>More than one typeface used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/language/mixed</summary>
-                     <p>More than one language used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/footnotes</summary>
+                        <p>Footnotes at bottom of page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/running-titles</summary>
+                        <p>Titles repeated each page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/decorations</summary>
+                        <p>Decorations of some kind</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/illustrations</summary>
+                        <p>Illustrations in content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/illustrations/multi-colour</summary>
+                        <p>Multi-colour illustrations in content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+                        <p>More than one typeface used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/language/mixed</summary>
+                        <p>More than one language used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
       </div>
       <div>
          <h2>Antiqua</h2>
          <div>
-            <h3>simple</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>simple</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -938,148 +957,152 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/medium-damage/stains</summary>
-                     <p>Noticeable stains on medium</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/medium-damage/stains</summary>
+                        <p>Noticeable stains on medium</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/graphical/separator</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/graphical/separator</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
          <div>
-            <h3>complex</h3>
-            <ul>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
-                     <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
+            <details>
+               <summary>
+                  <h3>complex</h3>
+               </summary>
+               <ul>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/layoutAnalysis</summary>
+                        <p>In computer vision, document layout analysis is the process of identifying and categorizing the regions of interest in the scanned image of a text document. A reading system requires the segmentation of text zones from non-textual ones and the arrangement in their correct reading order.
 
 Examples:
 Page layout analysis (segmentation into regions, classification into text, graphic, table etc.)
 
 Related:
 "OCR": Often used as a synonym for layout analysis and text recognition, but strictly only the text recognition component.</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
-                     <p>Translation of any kind of depicted symbols to machine readable format
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/ocr</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>activityDomain/computing/visual/analysisRecognition/text</summary>
+                        <p>Translation of any kind of depicted symbols to machine readable format
 
 Examples:
 OCR
@@ -1089,150 +1112,151 @@ Related:
 Text processing (separate category)
 Table recognition
 Map reading</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/production-related/document-faults/ink-from-facing</summary>
-                     <p>Ink from facing page was transferred to this page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/additions/informative/annotations</summary>
-                     <p>Annotations regarding the content</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>condition/wear/medium-damage/stains</summary>
-                     <p>Noticeable stains on medium</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-encoding/structured</summary>
-                     <p>E.g. XML</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>content-type/corpus</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/production-related/document-faults/ink-from-facing</summary>
+                        <p>Ink from facing page was transferred to this page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/additions/informative/annotations</summary>
+                        <p>Annotations regarding the content</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>condition/wear/medium-damage/stains</summary>
+                        <p>Noticeable stains on medium</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-encoding/structured</summary>
+                        <p>E.g. XML</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>content-type/corpus</summary>
+                        <p>
 Corpus: a collection of written texts, especially the entire works of a particular author or a body of writing on a particular subject.
 
 Examples:
 A text corpus,
 An image database</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>contentOfInterest/visual/text</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>contentOfInterest/visual/text</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/footnote-continued</summary>
-                     <p/>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/footnotes</summary>
-                     <p>Footnotes at bottom of page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/structural/running-titles</summary>
-                     <p>Titles repeated each page</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/drop-caps</summary>
-                     <p>Drap capitals (large capitals at beginning of paragraph)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
-                     <p>More than one font size used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
-                     <p>More than one typeface used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-                     <p>Antiqua font (more modern)</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-                     <p>Blackletter, gothic, Fraktur</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>data-attributes/language/mixed</summary>
-                     <p>More than one language used</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/logical/document-related/paragraph</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/footnote-continued</summary>
+                        <p/>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/footnotes</summary>
+                        <p>Footnotes at bottom of page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/structural/running-titles</summary>
+                        <p>Titles repeated each page</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/drop-caps</summary>
+                        <p>Drap capitals (large capitals at beginning of paragraph)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+                        <p>More than one font size used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/multi-font/typefaces</summary>
+                        <p>More than one typeface used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
+                        <p>Antiqua font (more modern)</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
+                        <p>Blackletter, gothic, Fraktur</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>data-attributes/language/mixed</summary>
+                        <p>More than one language used</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/logical/document-related/paragraph</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/page</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/page</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/region</summary>
-                     <p>Region, zone, block</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/text-line</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/region</summary>
+                        <p>Region, zone, block</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/text-line</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>granularity/physical/document-related/word</summary>
-                     <p>Word or partial word, if separated by line break, for example</p>
-                  </details>
-               </li>
-               <li>
-                  <details>
-                     <summary>platform/platform-independent</summary>
-                     <p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>granularity/physical/document-related/word</summary>
+                        <p>Word or partial word, if separated by line break, for example</p>
+                     </details>
+                  </li>
+                  <li>
+                     <details>
+                        <summary>platform/platform-independent</summary>
+                        <p>
                         Description coming soon.
                     </p>
-                  </details>
-               </li>
-            </ul>
+                     </details>
+                  </li>
+               </ul>
+            </details>
          </div>
       </div>
    </div>
