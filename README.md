@@ -3,8 +3,10 @@
       <h1>📚 Corpus</h1>
       <p>This corpus includes Ground Truth data compiled considering the following feature:</p>
       <ol>
-         <li>distinction of the selected print type or combinations : Classification into font groups: Gothic/Blackletter, Antiqua and FontMix (Antiqua and Blackletter)</li>
-         <li>compelexity of the layout (columns, footnotes,...) : Classification into simple and complex</li>
+         <li>Classification into font groups: Gothic/Blackletter, Antiqua and FontMix (Antiqua and Blackletter)<br/>
+         distinction of the selected print type or combinations</li>
+         <li>Classification into simple and complex<br/>
+         compelexity of the layout (columns, footnotes,...)</li>
       </ol>
       <p>The data are also divided according to the time of creation or production.</p>
       <h2>🖉 Creation</h2>
