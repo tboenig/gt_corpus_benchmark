@@ -1,7 +1,7 @@
 <div>
    <div id="main">
       <h1>📚 Corpus</h1>
-      <p>This corpus includes Ground Truth data compiled considering the following feature:</p>
+      <p>This corpus includes Ground Truth (GT) data compiled considering the following feature:</p>
       <ol>
          <li>Classification into font groups: Gothic/Blackletter, Antiqua and FontMix (Antiqua and Blackletter)<br/>
          distinction of the selected print type or combinations</li>
