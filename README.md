@@ -20,10 +20,10 @@
                   simple
                </summary>
                <ul>
-                  <li>https://github.com/tboenig/16_frak_simple</li>
-                  <li>https://github.com/tboenig/17_frak_simple</li>
-                  <li>https://github.com/tboenig/18_frak_simple</li>
-                  <li>https://github.com/tboenig/19_frak_simple</li>
+                  <li><a href="https://github.com/tboenig/16_frak_simple">https://github.com/tboenig/16_frak_simple</a></li>
+                  <li><a href="https://github.com/tboenig/17_frak_simple">https://github.com/tboenig/17_frak_simple</a></li>
+                  <li><a href="https://github.com/tboenig/18_frak_simple">https://github.com/tboenig/18_frak_simple</a></li>
+                  <li><a href="https://github.com/tboenig/19_frak_simple">https://github.com/tboenig/19_frak_simple</a></li>
                </ul>
             </details>
             <details>
@@ -31,9 +31,9 @@
                   complex
                </summary>
                <ul>
-                  <li>https://github.com/tboenig/16_frak_complex</li>
-                  <li>https://github.com/tboenig/17_frak_complex</li>
-                  <li>https://github.com/tboenig/18_frak_complex</li>
+                  <li><a href="https://github.com/tboenig/16_frak_complex">https://github.com/tboenig/16_frak_complex</a></li>
+                  <li><a href="https://github.com/tboenig/17_frak_complex">https://github.com/tboenig/17_frak_complex</a></li>
+                  <li><a href="https://github.com/tboenig/18_frak_complex">https://github.com/tboenig/18_frak_complex</a></li>
                </ul>
             </details>
          </details>
@@ -44,8 +44,8 @@
                   simple
                </summary>
                <ul>
-                  <li>https://github.com/tboenig/16_ant_simple</li>
-                  <li>https://github.com/tboenig/18_ant_simple</li>
+                  <li><a href="https://github.com/tboenig/16_ant_simple">https://github.com/tboenig/16_ant_simple</a></li>
+                  <li><a href="https://github.com/tboenig/18_ant_simple">https://github.com/tboenig/18_ant_simple</a></li>
                </ul>
             </details>
             <details>
@@ -53,8 +53,8 @@
                   complex
                </summary>
                <ul>
-                  <li>https://github.com/tboenig/16_ant_complex</li>
-                  <li>https://github.com/tboenig/19_ant_simple</li>
+                  <li><a href="https://github.com/tboenig/16_ant_complex">https://github.com/tboenig/16_ant_complex</a></li>
+                  <li><a href="https://github.com/tboenig/19_ant_simple">https://github.com/tboenig/19_ant_simple</a></li>
                </ul>
             </details>
          </details>
@@ -65,8 +65,8 @@
                   fontmix
                </summary>
                <ul>
-                  <li>https://github.com/tboenig/17_fontmix_simple</li>
-                  <li>https://github.com/tboenig/18_fontmix_complex</li>
+                  <li><a href="https://github.com/tboenig/17_fontmix_simple">https://github.com/tboenig/17_fontmix_simple</a></li>
+                  <li><a href="https://github.com/tboenig/18_fontmix_complex">https://github.com/tboenig/18_fontmix_complex</a></li>
                </ul>
             </details>
          </details>
